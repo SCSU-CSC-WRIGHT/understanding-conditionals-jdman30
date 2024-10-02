@@ -1,3 +1,5 @@
+# This is Assignment 3 for Jordan Drabek, CSC 152, 10/2/2024
+
 #Temperature Check
 #Write a Python program that asks the user to input the current temperature in Celsius. If the temperature is above 30 degrees, print "It's a hot day." Otherwise, print "The weather is cool."
 
