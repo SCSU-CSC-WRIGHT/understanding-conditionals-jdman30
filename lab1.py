@@ -100,4 +100,4 @@ elif (dayinput == 6):
 elif (dayinput == 7):
     print("The day is Sunday")
 else:
-    print("You didnt enter one of the numbers.")
+    print("You didnt enter 1 - 7 or a number a number at all.")
